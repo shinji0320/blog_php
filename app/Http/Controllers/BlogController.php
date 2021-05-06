@@ -7,7 +7,6 @@ use Illuminate\Http\Request;
 class BlogController extends Controller
 {
     /**
-     * ブログ一覧を表示する
      *
      * @return view
      */
